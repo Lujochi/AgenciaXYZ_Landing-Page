@@ -53,5 +53,21 @@ A Landing Page é construída com HTML e CSS apenas, focando na responsividade e
 ## Funcionalidades
 
 - Responsividade: A página é totalmente responsiva e se adapta a diferentes tamanhos de tela, desde dispositivos móveis até desktops.
+  
 - Design Atraente: Utiliza um design moderno e limpo para atrair e manter a atenção do usuário.
+  
 - Animações e Interatividade: Animações suaves e interatividade para uma melhor experiência do usuário.
+
+## Tecnologias Utilizadas
+
+- HTML
+
+- CSS
+
+## Contato
+
+Se você tiver alguma dúvida ou sugestão, sinta-se à vontade para entrar em contato:
+
+- Email: a.luanjc@gmail.com
+- LinkedIn: https://www.linkedin.com/in/lujochi/
+- Instagram: [@lujochii](https://www.instagram.com/lujochii/)
