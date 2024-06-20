@@ -69,5 +69,5 @@ A Landing Page é construída com HTML e CSS apenas, focando na responsividade e
 Se você tiver alguma dúvida ou sugestão, sinta-se à vontade para entrar em contato:
 
 - Email: a.luanjc@gmail.com
-- LinkedIn: https://www.linkedin.com/in/lujochi/
+- LinkedIn: [@lujochi](https://www.linkedin.com/in/lujochi/)
 - Instagram: [@lujochii](https://www.instagram.com/lujochii/)
